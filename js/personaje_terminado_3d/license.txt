@@ -1,0 +1,11 @@
+Model Information:
+* title:	Personaje Terminado
+* source:	https://sketchfab.com/3d-models/personaje-terminado-4484d34394ac49c7b7a00ca84b812d0d
+* author:	Whatsername (https://sketchfab.com/Whatsername)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Personaje Terminado" (https://sketchfab.com/3d-models/personaje-terminado-4484d34394ac49c7b7a00ca84b812d0d) by Whatsername (https://sketchfab.com/Whatsername) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

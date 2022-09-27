@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fat Man (the Incredibles)
+* source:	https://sketchfab.com/3d-models/fat-man-the-incredibles-2e661cf1301b445cbe10dad8f0f956b3
+* author:	patrick.ambrose2840 (https://sketchfab.com/patrick.ambrose2840)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fat Man (the Incredibles)" (https://sketchfab.com/3d-models/fat-man-the-incredibles-2e661cf1301b445cbe10dad8f0f956b3) by patrick.ambrose2840 (https://sketchfab.com/patrick.ambrose2840) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
